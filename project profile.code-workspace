@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "prfoject",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../one-page-website-html-css-project-master/one-page-website-html-css-project-master/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prfoject"
+	}
+}

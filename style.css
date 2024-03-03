@@ -1,0 +1,157 @@
+body {
+	background-color: #05386B; /* Ganti kode warna dengan warna hijau yang diinginkan */
+	color: white; /* Untuk mengubah warna teks agar sesuai dengan latar belakang hijau */
+}
+
+.navbar {
+	background-color: #05386B; /* Sesuaikan warna navbar dengan latar belakang halaman */
+}
+
+/* Jika ada elemen lain yang perlu diubah warnanya untuk sesuai dengan latar belakang hijau */
+.container, .container-lg {
+	background-color: #05386B;
+}
+.banner {
+	background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg")
+	  no-repeat center center;
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	color: #aae94c;
+  }
+
+.text-danger {
+	color:#379683!important;
+}
+.btn {
+	color: #ffffff;
+	background-color: #379683;
+}
+.btn .text-danger {
+	color:#379683!important;
+	border-color: #379683!important;
+}
+.btn:hover {
+	color: #ffffff;
+	background-color: #379683;
+	border-color: #379683;
+}
+.btn-danger {
+	border-color: #379683!important;
+}
+
+.text-muted {
+	color:#edf5e1!important;
+}
+  .lingkaran {
+	display: inline-block;
+	border-radius: 50%;
+	width: 150px;
+	margin: auto;
+	height: 150px;
+	color: #05386B;
+	background-color: #379683;
+  }
+  #pengalaman {
+	padding-top: 70px; 
+  }
+#pengalaman {
+	padding-top: 70px;
+  }
+  
+  #portofolio {
+	padding-top: 70px; 
+  }
+  
+  #tentang {
+	padding-top: 70px; 
+  }
+  
+  #staff {
+	padding-top: 70px; 
+  }
+  
+  #kontak {
+	padding-top: 70px; 
+  }
+  
+  .lingkaran i {
+	position: relative;
+	top: 30px;
+  }
+  
+  .crop-img {
+	object-fit: cover;
+  }
+  
+  .tim img {
+	width: 250px;
+	border: 10px solid #cccccc;
+  }
+  
+  a.social {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	color: #fff;
+	border-radius: 50%;
+	background-color: #333;
+	line-height: 40px;
+  }
+
+  .client img {
+	height: auto;
+	max-height: 50px;
+  }
+  
+  .kontak {
+	
+	background-size: cover;
+	padding-bottom: 20%;
+	padding-top: 20%;
+	color: #fff;
+  }
+
+h5.card-title {
+	color: #ffffff;
+}
+.card-body{
+	background-color: #379683;
+	border-color: #379683!important;
+}
+
+footer {
+	background-color:  #05386B;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+
+.social-icons {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.social-icons li {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.social-icons a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px; }
+
+	.home-img {
+		width: 500px; /* Sesuaikan lebar dan tinggi sesuai kebutuhan */
+		height: 500px;
+		overflow: hidden;
+		border-radius: 50%; /* Membuat sudut elemen menjadi bundar */
+	}
+	
+	/* Agar gambar di dalam elemen foto bundar mengisi seluruh ruang */
+	.home-img img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover; }
